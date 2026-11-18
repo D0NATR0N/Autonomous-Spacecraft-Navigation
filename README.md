@@ -101,6 +101,10 @@ All generated files are saved in the `results/` directory.
 
 ![Experiment 1](results/experiment_1_observation_count.png)
 
+Effect of the number of celestial objects observed on mean three-dimensional spacecraft position error. Error bars represent ±1 standard deviation across 100 trials.
+
 ### Experiment 2: Angular Measurement Uncertainty
 
 ![Experiment 2](results/experiment_2_angular_uncertainty.png)
+
+Effect of angular measurement uncertainty on mean three-dimensional spacecraft position error. Error bars represent ±1 standard deviation across 100 trials.
