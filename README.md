@@ -94,7 +94,3 @@ The simulation performs 1,000 experimental trials across two experiments and gen
 - Graphs illustrating the effects of observation quantity and angular measurement uncertainty
 
 All generated files are saved in the `results/` directory.
-
-![Experiment 2](results/experiment_2_angular_uncertainty.png)
-
-Effect of angular measurement uncertainty on mean three-dimensional spacecraft position error. Error bars represent ±1 standard deviation across 100 trials.
