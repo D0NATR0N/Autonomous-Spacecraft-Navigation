@@ -89,8 +89,10 @@ py src/navigation_simulation.py
 
 The simulation performs 1,000 experimental trials across two experiments and generates:
 
-- Experimental results in CSV format[Experimental Results (CSV)](results/experimental_results.csv)
-- Mathematical validation data in CSV format[Mathematical Validation Results (CSV)](results/mathematical_validation.csv)
+- Experimental results in CSV format
+  [Experimental Results (CSV)](results/experimental_results.csv)
+- Mathematical validation data in CSV format
+  [Mathematical Validation Results (CSV)](results/mathematical_validation.csv)
 - Graphs illustrating the effects of observation quantity and angular measurement uncertainty
 
 All generated files are saved in the `results/` directory.
