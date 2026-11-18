@@ -54,3 +54,29 @@ Future work may investigate geometry-aware observation selection and the use of 
 ## Research Paper
 
 See the `research/` directory for the complete research paper.
+## Running the Simulation
+
+### Requirements
+
+- Python 3.10 or later
+- NumPy
+- SciPy
+- Matplotlib
+
+### Installation
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Execution
+
+Run the simulation from the repository's main directory:
+
+```bash
+python src/navigation_simulation.py
+```
+
+The simulation generates experimental results, numerical data, and visualization files.
