@@ -80,3 +80,12 @@ python src/navigation_simulation.py
 ```
 
 The simulation generates experimental results, numerical data, and visualization files.
+## Experimental Results
+
+### Experiment 1: Number of Celestial Observations
+
+![Experiment 1](results/experiment_1_observation_count.png)
+
+### Experiment 2: Angular Measurement Uncertainty
+
+![Experiment 2](results/experiment_2_angular_uncertainty.png)
