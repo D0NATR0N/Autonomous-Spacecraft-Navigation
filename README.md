@@ -79,7 +79,7 @@ py -m pip install -r requirements.txt
 
 ### Execution
 
-Run the simulation:
+Run the simulation from the repository's main directory:
 
 ```bash
 py src/navigation_simulation.py
@@ -95,15 +95,6 @@ The simulation performs 1,000 experimental trials across two experiments and gen
 
 All generated files are saved in the `results/` directory.
 
-### Execution
-
-Run the simulation from the repository's main directory:
-
-```bash
-python src/navigation_simulation.py
-```
-
-The simulation generates experimental results, numerical data, and visualization files.
 ## Experimental Results
 
 ### Experiment 1: Number of Celestial Observations
