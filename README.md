@@ -26,8 +26,8 @@ Examines how increasing angular uncertainty from 0.00° to 0.25° affects positi
 
 ## Key Findings
 
-- Increasing observations from 2 to 20 reduced mean positioning error from 0.406605 to 0.078638 simulation units.
-- Increasing angular uncertainty from 0.00° to 0.25° increased mean positioning error from 0.000000 to 0.404013 simulation units.
+- Increasing observations from 2 to 20 reduced mean positioning error from 0.399497 to 0.078696 simulation units.
+- Increasing angular uncertainty from 0.00° to 0.25° increased mean positioning error from 0.000000 to 0.407257 simulation units.
 - Jacobian and singular-value analysis was used to investigate the mathematical conditioning of the estimation problem.
 
 ## Technologies
