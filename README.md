@@ -90,22 +90,10 @@ py src/navigation_simulation.py
 The simulation performs 1,000 experimental trials across two experiments and generates:
 
 - Experimental results in CSV format
-  [Experimental Results (CSV)](results/experimental_results.csv)
 - Mathematical validation data in CSV format
-  [Mathematical Validation Results (CSV)](results/mathematical_validation.csv)
 - Graphs illustrating the effects of observation quantity and angular measurement uncertainty
 
 All generated files are saved in the `results/` directory.
-
-## Experimental Results
-
-### Experiment 1: Number of Celestial Observations
-
-![Experiment 1](results/experiment_1_observation_count.png)
-
-Effect of the number of celestial objects observed on mean three-dimensional spacecraft position error. Error bars represent ±1 standard deviation across 100 trials.
-
-### Experiment 2: Angular Measurement Uncertainty
 
 ![Experiment 2](results/experiment_2_angular_uncertainty.png)
 
