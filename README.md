@@ -57,19 +57,43 @@ See the `research/` directory for the complete research paper.
 ## Running the Simulation
 
 ### Requirements
-
-- Python 3.10 or later
+- Python 3.12 or later
 - NumPy
 - SciPy
 - Matplotlib
 
 ### Installation
 
+Clone the repository:
+
+```bash
+git clone https://github.com/D0NATR0N/Autonomous-Spacecraft-Navigation.git
+cd Autonomous-Spacecraft-Navigation
+```
+
 Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
+
+### Execution
+
+Run the simulation:
+
+```bash
+py src/navigation_simulation.py
+```
+
+### Output
+
+The simulation performs 1,000 experimental trials across two experiments and generates:
+
+- Experimental results in CSV format
+- Mathematical validation data in CSV format
+- Graphs illustrating the effects of observation quantity and angular measurement uncertainty
+
+All generated files are saved in the `results/` directory.
 
 ### Execution
 
